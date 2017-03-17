@@ -1,0 +1,13 @@
+#ignor file
+*.png
+*.jpg
+
+#libraries
+*.a
+*.dylib
+
+#generate file
+*/CMakeFiles
+*/build/
+*/SOIL/
+          

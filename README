@@ -1,0 +1,13 @@
+OpenGL tutorial:
+Required:
+cmake: 3.7.0
+glfw: brew install glfw
+glew: brew install glew
+glm:  brew install glm
+
+1. glfw create a window
+2. first triangle
+3. shader(vertex/fragment)
+4. texture
+
+ps: In this tutorial, I also learned cmake.
